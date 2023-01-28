@@ -16,3 +16,4 @@ Bei Fragen zu Projekten und ähnlichem schreib mir gerne auf Twitter oder Discor
    \ \____/\ \____\ \____/\ \_\ \_\ \ \_\ \_\\ \_\
     \/___/  \/____/\/___/  \/_/\/_/  \/_/\/_/ \/_/
 ```
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31buhdq47bbg6z6vgcv6sarhrbym&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
