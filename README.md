@@ -31,5 +31,5 @@
 <p><a href="https://www.buymeacoffee.com/leontm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="leontm" /></a></p><br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leontm-dev&show_icons=true&locale=en&layout=compact" alt="leontm-dev" /></p>
-
+<br><br><br><br><br><br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leontm-dev&show_icons=true&locale=en" alt="leontm-dev" /></p>
