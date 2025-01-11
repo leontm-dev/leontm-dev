@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Nest.js<br>🎯 Goals: Master the JavaScript Ecosystem, Study Computer Science<br>🎲 Fun fact: The longest palindrome in the german language is: Reliefpfeiler</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Nest.js<br>🎯 Goals: Master the JavaScript Ecosystem<br>🎲 Fun fact: The longest palindrome in the german language is: Reliefpfeiler</p>
 
 ###
 
