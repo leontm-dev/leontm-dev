@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Tach! 👋</h1>
 
 ###
 
-<p align="left">My name is Leon and I'm a Developer from Germany</p>
+<p align="left">Hello, my name is Leon.</p>
 
 ###
 
